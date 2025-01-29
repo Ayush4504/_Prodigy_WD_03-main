@@ -1,2 +1,4 @@
-# _Prodigy_WD_03-main
-Tic-Tac-Toe Web Application 
+
+Created an interactive Tic-Tac-Toe Web Application using HTML, CSS, JavaScript with the tracking of the game.
+
+Hope you enjoy it!!
